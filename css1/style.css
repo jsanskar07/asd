@@ -1,0 +1,122 @@
+.logo-align{
+    margin-left: 2.5rem;
+}
+.navbar-custom{
+    height: 100px;
+}
+.nav-item{
+    margin-right: 2.5rem;
+}
+#section1-hw{    
+    height: 600px;
+    width: 100%;
+}
+.center{
+    text-align: center;    
+}
+.size{
+    height: 250px;
+}
+.size1{
+    height: 350px;
+}
+.padding{
+    padding-top: 4rem;    
+}
+.hh1{
+    padding-top: 200px;
+    font-size: 3rem;
+    font-weight: bolder;
+    color: white;
+    
+}
+.section1{    
+    height: 550px;
+    width: 100%;    
+    margin-right: 0;
+    background-image: url('../css/images/study-walpaper.jpg');     
+}
+.head-format{
+    font-weight: bolder;
+    color: brown;    
+}
+.aligncol{
+    padding-left: 4.5rem;
+    padding-right: 4.5rem;    
+}
+.button{
+    border-radius: 1.2rem;   
+    border: solid white; 
+}
+.color{
+    color: tomato;
+    padding-bottom: 3rem;
+}
+.alignrow{
+    margin-top: 2.5rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+#features{
+    background-image: linear-gradient(to bottom right,#f5f5f5,#ffffff);
+}
+.edit{
+    margin-left: 2.5rem;
+    margin-top: 0.75rem;
+    border-left: solid yellow;
+    height: 50px;    
+    background-color: white;
+}
+#items{
+    padding-bottom: 2.5rem;
+    background-image: linear-gradient(to bottom right,#d7e1ec,#ffffff);
+}
+.margin-courosol{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.align{
+    margin-top: 2.5rem;    
+}
+.align1{
+    margin-top: 5rem;
+}
+.aaa{
+    height: 100px;
+    width: 100px;    
+    border-radius: 100%;
+   margin-bottom: 3.0rem;   
+}
+.margin{
+    margin-left: 10.0rem;
+    margin-right: 10rem;
+}
+
+.margin2{
+    margin-bottom: 7rem;
+}
+
+.clr{
+    color: #767676;
+}
+.clr1{
+    color: #444444;
+}
+.height{
+    height: 300px;
+}
+#footer{
+    margin-top: 0rem;   
+    background-color: #F5F5F5;    
+}
+.pages{
+    font-size: x-small;
+    margin-top: 1.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+#last{    
+    font-size: x-small; 
+    margin-bottom: 0;   
+}
